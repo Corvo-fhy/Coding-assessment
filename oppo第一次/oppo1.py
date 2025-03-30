@@ -1,5 +1,7 @@
 import sys
 
+
+# 有部分样例无法通过
 n = int(sys.stdin.readline().strip())
 if n == 1:
     print(2)

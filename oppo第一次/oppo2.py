@@ -1,6 +1,7 @@
 import sys
 import time
 
+# 超时
 n = int(sys.stdin.readline().strip())
 line = sys.stdin.readline().strip()
 values = list(map(int, line.split()))
